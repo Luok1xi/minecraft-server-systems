@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.luokixi.visuals.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "luokixivisuals.refmap.json",
+  "client": [
+    "EntityRenderDispatcherMixin",
+    "IronGolemRendererMixin",
+    "EndermanRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

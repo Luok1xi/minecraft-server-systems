@@ -1,0 +1,17 @@
+{
+  "name": "最初几天",
+  "category": "myteam:beginning",
+  "icon": "minecraft:oak_sapling",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "先在主城附近找一个不会妨碍公共道路的位置落脚。把床、食物、基础工具和归乡罗盘整理好，再开始远行。$(br2)模组服的危险往往不是第一只怪，而是“我只再往前看一个区块”。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)带足食物与火把。$(li)在新地形里看见 Farmer’s Delight 的野生作物，第一批最好带回去扩种。$(li)遇到大型遗迹先记录坐标，不要在同一晚拖着大量区块与怪物回主城。$(li)需要手札时输入 $(6)/guide$()。",
+      "title": "行路清单"
+    }
+  ],
+  "sortnum": 2
+}

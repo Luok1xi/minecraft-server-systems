@@ -1,0 +1,18 @@
+{
+  "name": "别让世界一次醒得太快",
+  "category": "myteam:server_life",
+  "icon": "minecraft:redstone_torch",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "这个服务器只有四个 CPU 核心。最危险的不是“文件很多”，而是主线程同时进行区块生成、实体寻路、结构搜索和错误日志刷屏。$(br2)神谕系统已永久移除结构搜索，并把事件逻辑改成一次性或玩家主动触发。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "玩家能帮忙的事：$(br)$(li)不要多人同时高速向不同方向探图。$(li)不要把数百只动物挤在一个区块。$(li)服务器明显卡顿时先停下飞行和区块加载。$(li)遇到不断重复的错误及时告诉管理员。$(br2)管理员可用 $(6)/dev perf$()、$(6)/dev panic$()。",
+      "title": "性能礼仪"
+    }
+  ],
+  "sortnum": 1,
+  "priority": true
+}

@@ -1,0 +1,6 @@
+1.5.1-nolobby-clean
+- Removed all lobby/YSM showcase implementation from LuokixiVisuals.
+- Removed YSM and Advanced Fake Player dependencies from mods.toml because this clean build no longer uses either API.
+- Retained relic audiovisual effects, fire/execution packets, boss skins/scaling, TerrainSafety, GodslayerTotem, and existing mixins.
+- Removed stale build BAT files and stale lobby-build notes.
+- Added build-time and post-JAR contamination checks for Forge MDK ExampleMod/examplemod and removed showcase classes/resources.

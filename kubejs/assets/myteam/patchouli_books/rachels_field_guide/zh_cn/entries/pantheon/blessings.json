@@ -1,0 +1,17 @@
+{
+  "name": "白昼的赞许",
+  "category": "myteam:pantheon",
+  "icon": "minecraft:golden_apple",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "轻量祝福不会在后台持续扫描玩家。事件开始时，系统只施加一次状态效果，后续由 Minecraft 自己维持。$(br2)$(li)雨母：赠送一道 Farmer’s Delight 料理。$(li)风王：速度、跳跃提升，短暂缓降。$(li)潮王：幸运 II。$(li)炉神：抗火。$(li)日王：急迫与速度。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "正面神恩落下时，会听见升级声、该神祇自己的音色，以及较轻的经验拾取声。$(br2)这些声音是“祝福已经生效”的确认，不代表额外增加等级。",
+      "title": "听见神恩"
+    }
+  ],
+  "sortnum": 1
+}

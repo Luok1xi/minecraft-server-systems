@@ -1,0 +1,17 @@
+{
+  "name": "常用命令",
+  "category": "myteam:server_life",
+  "icon": "minecraft:command_block",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(6)/guide$()：重新领取本手札。$(li)$(6)/harvest$()：查看丰收料理笔记。$(li)$(6)/harvest done$()：主动检查丰收回礼。$(li)$(6)/caveomen$()：在洞穴之夜回应渊神。$(li)$(6)/oracle$()：打开三纺女的旧匣。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "管理员使用 $(6)/dev help$() 查看测试命令。$(br2)事件系统默认首次安装为关闭且安全模式开启。确认多人上线稳定后，再由管理员依次执行 $(6)/dev system on$() 与 $(6)/dev safe off$()。",
+      "title": "管理员"
+    }
+  ],
+  "sortnum": 0
+}

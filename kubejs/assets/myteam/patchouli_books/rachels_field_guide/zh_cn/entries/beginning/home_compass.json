@@ -1,0 +1,19 @@
+{
+  "name": "归乡罗盘",
+  "category": "myteam:beginning",
+  "icon": "minecraft:compass",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:compass",
+      "text": "金色名字的归乡罗盘并不是普通指南针。手持它右键，会在短暂引导后返回主世界出生点。它始终跟随管理员设置的世界出生点。",
+      "title": "会记得家的罗盘"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "主城附近使用时，罗盘只会提醒你已经到家。死亡后如果它因消失诅咒离开，系统会在复活后补发一枚。$(br2)$(6)它不需要输入回城命令。$()$(br2)在其他维度中，空间会干扰罗盘；先返回主世界再使用。",
+      "title": "使用与补发"
+    }
+  ],
+  "sortnum": 1
+}

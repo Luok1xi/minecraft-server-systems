@@ -1,0 +1,17 @@
+{
+  "name": "渊神的第二声",
+  "category": "myteam:pantheon",
+  "icon": "minecraft:echo_shard",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "洞穴之夜不会在后台寻找地下玩家。只有当你已经在主世界 Y≤35，并主动输入 $(6)/caveomen$()，奈瑟才会听见一次回答。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "每人每轮只能回应一次。回应后，附近会出现一名未归者。击败它有机会取得幻形碎片与破损的勘探记录。$(br2)如果你不回应，渊神也不会追着你。",
+      "title": "别回答不属于你的名字"
+    }
+  ],
+  "sortnum": 4
+}

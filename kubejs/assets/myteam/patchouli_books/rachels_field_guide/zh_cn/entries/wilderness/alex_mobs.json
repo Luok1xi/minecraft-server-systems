@@ -1,0 +1,18 @@
+{
+  "name": "荒野来客",
+  "category": "myteam:wilderness",
+  "icon": "minecraft:feather",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "服务器中的 Alex’s Mobs 为荒野增加了许多生物。旧区块中某些生物较少，并不一定代表模组失效；后来加入模组时，世界生成与生物分布不会完整倒灌进已经探索过的区域。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "大迁徙会少量生成已经确认存在的生物作为世界气氛，但不会用几十只动物制造负载。$(br2)真正想找更多物种，仍应前往合适生态与新区域。",
+      "title": "少量经过，不是动物园"
+    }
+  ],
+  "sortnum": 1,
+  "flag": "mod:alexsmobs"
+}

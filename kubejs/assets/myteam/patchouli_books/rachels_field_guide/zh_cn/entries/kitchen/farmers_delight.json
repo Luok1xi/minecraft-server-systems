@@ -1,0 +1,26 @@
+{
+  "name": "Farmer’s Delight 入门",
+  "category": "myteam:kitchen",
+  "icon": "farmersdelight:cooking_pot",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "farmersdelight:cutting_board",
+      "text": "砧板和刀会把普通食材变成更多料理需要的半成品。牛肉馅、培根、鱼片、羊排等路线都从这里开始。",
+      "title": "砧板"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "farmersdelight:cooking_pot",
+      "text": "厨锅负责汤、炖菜、米饭与意面。旁边常备一组碗，把蔬菜、肉类、半成品和餐具分箱存放，会让厨房舒服很多。",
+      "title": "厨锅"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "最值得长期种植的四条 Farmer’s Delight 作物线：$(br)$(li)番茄$(li)洋葱$(li)卷心菜$(li)稻米$(br2)野生作物第一次找到时，优先拿回家扩种。",
+      "title": "四条作物线"
+    }
+  ],
+  "sortnum": 1,
+  "flag": "mod:farmersdelight"
+}

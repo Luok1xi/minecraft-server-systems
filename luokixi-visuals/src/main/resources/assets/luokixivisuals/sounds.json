@@ -1,0 +1,146 @@
+{
+  "relic_rain_hit": {
+    "subtitle": "subtitles.luokixivisuals.relic_rain_hit",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/rain_hit"
+      }
+    ]
+  },
+  "relic_wind_hit": {
+    "subtitle": "subtitles.luokixivisuals.relic_wind_hit",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/wind_hit"
+      }
+    ]
+  },
+  "relic_tide_hit": {
+    "subtitle": "subtitles.luokixivisuals.relic_tide_hit",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/tide_hit"
+      }
+    ]
+  },
+  "relic_hearth_hit": {
+    "subtitle": "subtitles.luokixivisuals.relic_hearth_hit",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/hearth_hit"
+      }
+    ]
+  },
+  "relic_earth_hit": {
+    "subtitle": "subtitles.luokixivisuals.relic_earth_hit",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/earth_hit"
+      }
+    ]
+  },
+  "relic_sun_hit": {
+    "subtitle": "subtitles.luokixivisuals.relic_sun_hit",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/sun_hit"
+      }
+    ]
+  },
+  "relic_moon_hit": {
+    "subtitle": "subtitles.luokixivisuals.relic_moon_hit",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/moon_hit"
+      }
+    ]
+  },
+  "relic_death_nail": {
+    "subtitle": "subtitles.luokixivisuals.relic_death_nail",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/death_nail"
+      }
+    ]
+  },
+  "relic_abyss_hit": {
+    "subtitle": "subtitles.luokixivisuals.relic_abyss_hit",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/abyss_hit"
+      }
+    ]
+  },
+  "relic_war_hit": {
+    "subtitle": "subtitles.luokixivisuals.relic_war_hit",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/war_hit"
+      }
+    ]
+  },
+  "relic_thunder_hit": {
+    "subtitle": "subtitles.luokixivisuals.relic_thunder_hit",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/thunder_hit"
+      }
+    ]
+  },
+  "death_count_3": {
+    "subtitle": "subtitles.luokixivisuals.death_count_3",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/death_count_3"
+      }
+    ]
+  },
+  "death_count_2": {
+    "subtitle": "subtitles.luokixivisuals.death_count_2",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/death_count_2"
+      }
+    ]
+  },
+  "death_count_1": {
+    "subtitle": "subtitles.luokixivisuals.death_count_1",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/death_count_1"
+      }
+    ]
+  },
+  "death_slash": {
+    "subtitle": "subtitles.luokixivisuals.death_slash",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/death_slash"
+      }
+    ]
+  },
+  "death_verdict": {
+    "subtitle": "subtitles.luokixivisuals.death_verdict",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/death_verdict"
+      }
+    ]
+  },
+  "earth_banish": {
+    "subtitle": "subtitles.luokixivisuals.earth_banish",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/earth_banish"
+      }
+    ]
+  },
+  "death_count_0": {
+    "subtitle": "subtitles.luokixivisuals.death_count_0",
+    "sounds": [
+      {
+        "name": "luokixivisuals:relic/death_count_0"
+      }
+    ]
+  }
+}

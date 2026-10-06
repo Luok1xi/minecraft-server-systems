@@ -1,0 +1,16 @@
+{
+  "name": "《阿瑞秋的旅人手札》",
+  "landing_text": "$(l)写给刚穿过城门的人$()$(br2)这本手札不替你决定去处。它只记三件要紧的事：怎样回家、怎样听懂诸神的判词，以及怎样让这个世界在朋友们都上线以后仍能安稳运转。$(br2)——旧港抄写员 阿瑞秋",
+  "version": 4,
+  "subtitle": "旧路、炉火与诸神的第四版记录",
+  "creative_tab": "minecraft:tools_and_utilities",
+  "use_resource_pack": true,
+  "book_texture": "patchouli:textures/gui/book_green.png",
+  "model": "patchouli:book_green",
+  "show_progress": false,
+  "show_toasts": false,
+  "pause_game": false,
+  "text_overflow_mode": "resize",
+  "open_sound": "minecraft:item.book.page_turn",
+  "flip_sound": "minecraft:item.book.page_turn"
+}

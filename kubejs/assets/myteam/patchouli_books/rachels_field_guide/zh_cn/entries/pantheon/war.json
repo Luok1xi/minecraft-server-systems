@@ -1,0 +1,17 @@
+{
+  "name": "斗神的铁誓",
+  "category": "myteam:pantheon",
+  "icon": "minecraft:iron_sword",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "战意之夜会给予力量 I。敌对生物真正死亡时，系统才进行一次很小的奖赏判定；没有战斗时几乎没有后台成本。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)每次有效胜利：额外 2 点经验。$(li)第 5 次：额外经验，斗神颔首。$(li)第 15 次：经验与幻形碎片。$(li)第 30 次：经验、碎片与“断剑上的铁誓”。$(br2)本轮最多记录 30 次，避免刷怪场无限制造奖励。",
+      "title": "铁册的三道刻痕"
+    }
+  ],
+  "sortnum": 2
+}

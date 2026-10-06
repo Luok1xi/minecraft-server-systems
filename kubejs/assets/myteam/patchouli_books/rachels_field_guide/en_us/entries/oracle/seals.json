@@ -1,0 +1,17 @@
+{
+  "name": "神印收藏",
+  "category": "myteam:oracle",
+  "icon": "minecraft:prismarine_crystals",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "神印是诸神事件的收藏品，没有强制战斗属性。输入 $(6)/oracle collection$() 查看已经被你收下的神印。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "重复神印不会占满箱子，而会化成 2 枚幻形碎片。$(br2)神印记录的是“你曾经被哪一种神话认出”，而不是要求你每天上线完成清单。",
+      "title": "重复与收藏"
+    }
+  ],
+  "sortnum": 2
+}

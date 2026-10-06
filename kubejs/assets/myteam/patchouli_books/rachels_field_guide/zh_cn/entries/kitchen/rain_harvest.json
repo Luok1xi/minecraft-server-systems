@@ -1,0 +1,18 @@
+{
+  "name": "雨母的长桌",
+  "category": "myteam:kitchen",
+  "icon": "farmersdelight:beef_stew",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "丰收之日属于雨母维尔娜。天亮以前，三滴雨会落在门楣上；随后每位在线玩家会得到一份随机料理。$(br2)这不是任务，也不是债。先吃，喜欢的话再学着做。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "输入 $(6)/harvest$() 查看今天的料理笔记。点击“向炉火回敬一份”后，亲手再做一份同样的料理，再点击 $(6)/harvest done$()。$(br2)系统只在你点击时检查一次背包，不会持续扫描。",
+      "title": "给炉火的答礼"
+    }
+  ],
+  "sortnum": 0,
+  "priority": true
+}

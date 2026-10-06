@@ -1,0 +1,17 @@
+{
+  "name": "土父翻身",
+  "category": "myteam:wilderness",
+  "icon": "minecraft:leather_boots",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "大迁徙属于土父泰尔莫恩。事件发生时，系统只选择最多两名地表玩家，并一次性安排最多四只 Alex’s Mobs 生物经过附近。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "没有观察任务、发现检测、附近实体轮询或自动奖励。动物从视野里经过，本身就是完整故事。$(br2)事件结束时只进行一次标签清理。",
+      "title": "不要追问去处"
+    }
+  ],
+  "sortnum": 0
+}

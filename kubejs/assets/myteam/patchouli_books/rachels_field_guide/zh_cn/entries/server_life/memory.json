@@ -1,0 +1,17 @@
+{
+  "name": "世界会记住什么",
+  "category": "myteam:server_life",
+  "icon": "minecraft:clock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "部分事件会把很小的记录保存在玩家 persistentData 中：吃过的丰收料理、对料理的评价、神印收藏、斗神击杀里程碑等。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "这些记录不是每日任务，也不会后台循环计算。只有事件发生或玩家主动点击时才读取、更新一次。$(br2)未来它们可以继续成为“旧菜单”“远征记录”和个人回忆页的基础。",
+      "title": "不是签到表"
+    }
+  ],
+  "sortnum": 2
+}

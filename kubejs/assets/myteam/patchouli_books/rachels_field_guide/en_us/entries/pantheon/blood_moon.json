@@ -1,0 +1,17 @@
+{
+  "name": "死神的点名",
+  "category": "myteam:pantheon",
+  "icon": "minecraft:redstone",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "红月升起时，莫尔维恩会重新数一遍今夜仍在呼吸的人。事件最多额外生成两名被点名的精英；没有持续附近实体扫描。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "普通敌人中，前八名倒下者会留下少量额外经验，第八名还会留下幻形碎片。被点名的精英必定留下碎片，并可能留下“血月残响”。$(br2)清晨到来时，死神会合上名册。",
+      "title": "名册与残响"
+    }
+  ],
+  "sortnum": 3
+}

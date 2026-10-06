@@ -1,0 +1,17 @@
+{
+  "name": "三纺女的旧匣",
+  "category": "myteam:oracle",
+  "icon": "minecraft:ender_eye",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "输入 $(6)/oracle$() 打开旧匣。$(br2)长姐记下已经发生的事，中姐称量尚未发生的事，幼妹剪断不该发生的事。传说旧匣没有第四位主人。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "每次抽取消耗 1 枚幻形碎片。奖池包含经验、基础资源、实用物品与十种神印。连续 20 次没有神印时，下一次必定出现神印。$(br2)没有玩家抽取时，这套系统 CPU 消耗为 0。",
+      "title": "抽取与保底"
+    }
+  ],
+  "sortnum": 1
+}
